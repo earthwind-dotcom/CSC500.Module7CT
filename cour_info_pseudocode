@@ -1,0 +1,13 @@
+1. CREATE three dictionaries:
+   - room_numbers: maps course numbers to room numbers
+   - instructors: maps course numbers to instructor names
+   - meeting_times: maps course numbers to meeting times
+
+2. PROMPT user to enter a course number
+3. CONVERT input to uppercase to handle case sensitivity
+4. CHECK if course number exists in any dictionary
+5. IF course exists:
+   - DISPLAY room number, instructor, and meeting time
+6. ELSE:
+   - DISPLAY error message
+7. IMPLEMENT loop to allow multiple queries until user chooses to exit
