@@ -1,11 +1,12 @@
 # CSC500.Module7CT
 
-#Module 7: Critical Thinking Assignment - Course Information System
+# Module 7: Critical Thinking Assignment - Course Information System
 
-#Introduction
-This assignment challenged me to create a comprehensive course information system using Python dictionaries. Through this project, I gained valuable experience in data organization, user input handling, and creating interactive programs. The main objective was to develop a system that could efficiently store and retrieve course information based on user queries.
+# Introduction
 
-Challenges and Learning Experiences
+  This assignment challenged me to create a comprehensive course information system using Python dictionaries. Through this project, I gained valuable experience in data organization, user input handling, and creating interactive programs. The main objective was to develop a system that could efficiently store and retrieve course information based on user queries.
+
+# Challenges and Learning Experiences
 Technical Challenges
 Data Structure Selection: Deciding to use separate dictionaries for each type of information (rooms, instructors, times) rather than nested dictionaries. This approach made the code more readable and maintainable.
 
